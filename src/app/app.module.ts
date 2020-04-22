@@ -13,7 +13,7 @@ const FEATURE_MODULES_TAUGHT = [
   // DatabindingModule,
   // BuiltInDirectivesModule
   // PipesModule
-  // DirectivesModule,
+ // DirectivesModule,
   // TodoModule
   AssignmentModule
 ];

@@ -6,3 +6,8 @@
 .active {
   background-color: #0c5460;
 }
+
+.table-dark.table-hover tbody tr:hover{
+  background-color: #0c5460;
+}
+
